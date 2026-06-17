@@ -4,7 +4,6 @@ https://t.me/proxy?server=api.prxtoday.store&port=443&secret=ee1fed31d4c3ce8255a
 https://t.me/proxy?server=edge.prxtoday.store&port=443&secret=ee9ca7db6793ada8892580787426c44fa2656467652e707278746f6461792e73746f7265
 https://t.me/proxy?server=mtp.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275
 https://t.me/proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275
-https://t.me/proxy?server=googel.alo-otp.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=apex.proxyux.site&port=443&secret=ee1e16392ec634c2ebce9387a9edcf24e3617065782e70726f787975782e73697465
 https://t.me/proxy?server=echo.proxyux.site&port=443&secret=ee5f16596b5fbf96f62edd3ce71a5905516563686f2e70726f787975782e73697465
 https://t.me/proxy?server=comet.proxytelega.store&port=443&secret=ee6ee3f38ac1fe7874f5eab381736e7eaa636f6d65742e70726f787974656c6567612e73746f7265
@@ -33,7 +32,6 @@ https://t.me/proxy?server=mtp.nowabst.net&port=853&secret=7oLOH4SvQDPMfnsCEGm-PV
 https://t.me/proxy?server=ge.nowabst.net&port=853&secret=7v32F15QBpwBvSLXhlNKorJhZHMueDUucnU
 https://t.me/proxy?server=He.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=ewe.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=www.tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 https://t.me/proxy?server=tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 https://t.me/proxy?server=www.tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 https://t.me/proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
@@ -51,3 +49,21 @@ https://t.me/proxy?server=secure.medhata.org&port=443&secret=ee7304893354c81b4c1
 https://t.me/proxy?server=api.gorbushkin.click&port=443&secret=ee5aa8528eddb3b46d225fc8f50f26659c6170692e676f72627573686b696e2e636c69636b
 https://t.me/proxy?server=proxy.garden-troll.life&port=443&secret=ee3851712169434d3953e08f470d7ccaa170726f78792e67617264656e2d74726f6c6c2e6c696665
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=dd8b2994e4133226d9230ae7200c258958
+https://t.me/proxy?server=web.utkanos.life&port=443&secret=ee70e6b2e38b1a733d4dac1077464b46a47765622e75746b616e6f732e6c696665
+https://t.me/proxy?server=link.mishkalapy.life&port=443&secret=ee6d9ff342ecb0e149a6269f67d9383af26c696e6b2e6d6973686b616c6170792e6c696665
+https://t.me/proxy?server=net.antitspu.com&port=443&secret=ee8c43814cfc9478dfba16eafebcccdf206e65742e616e7469747370752e636f6d
+https://t.me/proxy?server=150.241.87.133&port=443&secret=eebf2b18633bd20310eeb833852083d1277777772e77702e706c
+https://t.me/proxy?server=81.90.17.230&port=8530&secret=eed9d1fceb145ca35d0b9a07bd662e57df7777772e6f6e65742e706c
+https://t.me/proxy?server=vl.lees.linkpc.net&port=443&secret=eeb5790afbdbe2185fae23837b6ea699f3626c7a6464697374312d612e616b616d616968642e6e6574
+https://t.me/proxy?server=f.reverse.linkpc.net&port=443&secret=ee465651a1836fd4320395aba3f4d621556a2e736e692d3634342d64656661756c742e73736c2e666173746c792e6e6574
+https://t.me/proxy?server=gate.klyuch1k.org&port=443&secret=ee5300913a77cc2612609f6bd1dcad2ea7676174652e6b6c79756368316b2e6f7267
+https://t.me/proxy?server=go.pelmeshka.top&port=443&secret=ee3b27756fba95be04fa17a91e1fb1434e676f2e70656c6d6573686b612e746f70
+https://t.me/proxy?server=portal.malevich7.top&port=443&secret=ee485df0201883028a6eb46b55fd937b4f706f7274616c2e6d616c6576696368372e746f70
+https://t.me/proxy?server=93.77.187.54&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+https://t.me/proxy?server=150.241.65.151&port=443&secret=ee6d6963726f736f66742e636f6d2e03
+https://t.me/proxy?server=150.241.68.198&port=443&secret=ee6d6963726f736f66742e636f6dd95c
+https://t.me/proxy?server=81.90.25.247&port=443&secret=ee6d6963726f736f66742e636f6dd95c
+https://t.me/proxy?server=51.250.12.63&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+https://t.me/proxy?server=93.77.190.100&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+https://t.me/proxy?server=proxy59.arixo.shop&port=443&secret=ee117dad495c69dd6935f6f06a58b388c8617669746f2e7275
+https://t.me/proxy?server=proxy60.arixo.shop&port=443&secret=ee889a8dbcfd93588e61734b8ab64efd51617669746f2e7275
