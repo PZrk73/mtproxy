@@ -1,8 +1,5 @@
 https://t.me/proxy?server=tg.soika.site&port=443&secret=ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465
 https://t.me/proxy?server=He.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=ewe.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=gateway.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=link.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=dd8b2994e4133226d9230ae7200c258958
 https://t.me/proxy?server=93.77.160.94&port=443&secret=ee3a100e0752a45411e15ade894aab3716617669746f2e7275
 https://t.me/proxy?server=93.77.165.1&port=443&secret=ee9f9c9180dbe1d442fbe689aed524f60f617669746f2e7275
@@ -32,3 +29,5 @@ https://t.me/proxy?server=gate.klyuch1k.org&port=443&secret=ee90fe2283168fc565dd
 https://t.me/proxy?server=cloud.neoqua.pro&port=443&secret=ee678ac8f3bc6a69844d9c71e492ee5678636c6f75642e6e656f7175612e70726f
 https://t.me/proxy?server=web.utkanos.life&port=443&secret=eecc8f41227a10051d1c4c325ed9db528b7765622e75746b616e6f732e6c696665
 https://t.me/proxy?server=portal.balalaika.click&port=443&secret=eed9b57dfbf5b124dd877540301c89c774706f7274616c2e62616c616c61696b612e636c69636b
+https://t.me/proxy?server=connect.savelyev.click&port=443&secret=ee5043c11a1f6af22fea1a0763ade968f6636f6e6e6563742e736176656c7965762e636c69636b
+https://t.me/proxy?server=get.utkanos.life&port=443&secret=ee50bc25d9708e2abc9d39ff7c654de9a26765742e75746b616e6f732e6c696665
