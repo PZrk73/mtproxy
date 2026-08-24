@@ -12,3 +12,13 @@ https://t.me/proxy?server=gateway.lovely.lat&port=443&secret=eeec835a34516912f16
 https://t.me/proxy?server=live.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174
 https://t.me/proxy?server=link.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275
 https://t.me/proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d
+https://t.me/proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275
+https://t.me/proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
+https://t.me/proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275
+https://t.me/proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
+https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
+https://t.me/proxy?server=megaconnect.click&port=443&secret=ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275
+https://t.me/proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
+https://t.me/proxy?server=ge.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d
+https://t.me/proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa9766b2e636f6d
+https://t.me/proxy?server=small.startnetwork.shop&port=443&secret=dd50db933e09b161878d2225787ad1dd21
