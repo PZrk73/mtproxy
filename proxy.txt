@@ -9,9 +9,6 @@ https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b24
 https://t.me/proxy?server=gateway.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c64676174657761792e6c6f76656c792e6c6174
 https://t.me/proxy?server=live.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174
 https://t.me/proxy?server=link.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275
-https://t.me/proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275
-https://t.me/proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275
-https://t.me/proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 https://t.me/proxy?server=setion-two.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
 https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
 https://t.me/proxy?server=support.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
@@ -20,7 +17,6 @@ https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994
 https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=beacon.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c64626561636f6e2e6c6f76656c792e6c6174
 https://t.me/proxy?server=vault.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c647661756c742e6c6f76656c792e6c6174
-https://t.me/proxy?server=zone.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 https://t.me/proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=help.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
 https://t.me/proxy?server=support.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
@@ -28,7 +24,6 @@ https://t.me/proxy?server=help.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd
 https://t.me/proxy?server=fiber.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275
 https://t.me/proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=run.helloworld.surf&port=443&secret=dde80c91fa5050b02631672334ecb38b6a
-https://t.me/proxy?server=tg.flightv.online&port=443&secret=ee0caa8b462f3ace0e47d673f7abfcc70e6e6c2e666c69676874762e6f6e6c696e65
 https://t.me/proxy?server=time.vechnostnet.study&port=443&secret=dd8c9e3f5343fe86b52d608122e71d8ec7
 https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -46,7 +41,6 @@ https://t.me/proxy?server=my.dasy2k1.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMj
 https://t.me/proxy?server=gen.foriran.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=s5.foriran.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=evo.foriran.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-https://t.me/proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 https://t.me/proxy?server=jadid.zhigool.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=yeke-jahan.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==
